@@ -15,3 +15,5 @@ This project is as lightweight as possible with no unnecessary bloat
 https://github.com/emmercm/docker-qbittorrent 
 <br>
 https://www.qbittorrent.org/
+<br>
+https://www.racernodes.host
